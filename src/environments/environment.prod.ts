@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  UrlAPi:'https://quiniela.datumredsoft.com',
+  UrlAPi:'http://137.184.85.167:8080',
   http:'https://',
 };

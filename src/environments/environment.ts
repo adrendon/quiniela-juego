@@ -7,7 +7,7 @@ export const environment = {
   /* UrlAPi:'http://192.168.10.116:8080',
   http:'http://', */
   /* UrlAPi:'http://quiniela.eastus2.cloudapp.azure.com:8080', */
-  UrlAPi:'https://quiniela.datumredsoft.com',
+  UrlAPi:'http://137.184.85.167:8080',
   http:'http://',
 };
 
