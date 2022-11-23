@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1668361995014,
+  "timestamp": 1668615397558,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,13 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.98d61f1a19071e1a.js",
+        "/main.cfd9b693d708d16b.js",
         "/manifest.webmanifest",
-        "/polyfills.14ed9e8f46d12ad6.js",
+        "/polyfills.71b48ca70657037d.js",
         "/runtime.6d6edbbf5cb227ba.js",
         "/scripts.d02861943291afeb.js",
-        "/styles.87b884c0bdd0427e.css"
+        "/styles.87b884c0bdd0427e.css",
+        "/vendor.203d5780edc9b0b9.js"
       ],
       "patterns": []
     },
@@ -95,13 +96,14 @@
     "/assets/tipography/Qatar2022Arabic-Heavy.ttf": "f8770a6fd79dc1f70851ead117a00a06cc2d7c19",
     "/bg-qatar.190a2612f0c92544.jpg": "153b9d8f75c8f8e2db71ef47f418c84b6930cb6f",
     "/favicon.ico": "7585995cfa161ecd145ed0ab9cf5edf8f46a71d1",
-    "/index.html": "79e330e5352c328077fb1af265fbc6154e29163e",
-    "/main.98d61f1a19071e1a.js": "8d07c374f54cf0f72ff4de85f6d196a0b1ae13d9",
+    "/index.html": "988636a1f60e0b8a803f3cc70c39d12ebe855272",
+    "/main.cfd9b693d708d16b.js": "a430fe066dbebe91daef5c89733a4a68cdbcb3e3",
     "/manifest.webmanifest": "83579ba6a94fccff3efe399ddc471c629f8a1543",
-    "/polyfills.14ed9e8f46d12ad6.js": "97f281f1323e6176dfa535b53445dbfc26420710",
+    "/polyfills.71b48ca70657037d.js": "a8804da2c90454d8ca3e57f68eb59fbd03a65f5b",
     "/runtime.6d6edbbf5cb227ba.js": "8703599285381ccb7706dc0f0071824ae0cb006c",
     "/scripts.d02861943291afeb.js": "0e22d19e53c95083739f214957ed99b502ab532b",
-    "/styles.87b884c0bdd0427e.css": "45ef0bf445fb26155856e14b5d4d75ddeff12a44"
+    "/styles.87b884c0bdd0427e.css": "45ef0bf445fb26155856e14b5d4d75ddeff12a44",
+    "/vendor.203d5780edc9b0b9.js": "9261bdf41f286244132b3669741356b384a73ff9"
   },
   "navigationUrls": [
     {
